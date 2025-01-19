@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Timer Blur Extension",
+    "version": "6.9",
+    "description": "A Chrome extension that blurs the background after a countdown timer.",
+    "permissions": ["storage", "scripting"],
+    "host_permissions": ["<all_urls>"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {"16": "icon.png"}
+  }
