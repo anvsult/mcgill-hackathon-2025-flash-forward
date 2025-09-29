@@ -64,7 +64,5 @@ Built during a **24-hour hackathon** as a functional prototype to promote **smar
 ---
 
 ## 📸 Preview
-*(Add screenshots or GIFs of your extension here if available)*
 <img width="628" height="316" alt="original" src="https://github.com/user-attachments/assets/c6dd6bf8-8f24-418d-ba17-0a67f24185fd" />
-
-https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/223/673/datas/original.png<img width="806" height="475" alt="image" src="https://github.com/user-attachments/assets/47a497ee-bd0a-4120-967a-e156cb173623" />
+<img width="806" height="475" alt="image" src="https://github.com/user-attachments/assets/47a497ee-bd0a-4120-967a-e156cb173623" />
