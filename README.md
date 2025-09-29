@@ -9,6 +9,12 @@ As students, our team noticed how easy it is to fall into the trap of **mindless
 
 ---
 
+## 📸 Preview
+<img width="628" height="316" alt="original" src="https://github.com/user-attachments/assets/c6dd6bf8-8f24-418d-ba17-0a67f24185fd" />
+<img width="806" height="475" alt="image" src="https://github.com/user-attachments/assets/47a497ee-bd0a-4120-967a-e156cb173623" />
+
+---
+
 ## 🚀 What It Does
 FlashForward is a **Chrome Extension** that helps users **study while managing distractions**:
 - Users upload their **course notes**, which are automatically converted into **flashcards**.  
@@ -61,8 +67,4 @@ This approach turns wasted scrolling time into active recall study sessions.
 ## 🏆 Hackathon Project
 Built during a **24-hour hackathon** as a functional prototype to promote **smarter studying habits** through AI-assisted learning.
 
----
 
-## 📸 Preview
-<img width="628" height="316" alt="original" src="https://github.com/user-attachments/assets/c6dd6bf8-8f24-418d-ba17-0a67f24185fd" />
-<img width="806" height="475" alt="image" src="https://github.com/user-attachments/assets/47a497ee-bd0a-4120-967a-e156cb173623" />
